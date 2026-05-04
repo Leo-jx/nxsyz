@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a5276"/>
+      <stop offset="100%" style="stop-color:#2980b9"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f1c40f"/>
+      <stop offset="100%" style="stop-color:#d4a017"/>
+    </linearGradient>
+  </defs>
+  <circle cx="100" cy="100" r="95" fill="url(#bgGrad)" stroke="url(#goldGrad)" stroke-width="4"/>
+  <circle cx="100" cy="100" r="82" fill="none" stroke="url(#goldGrad)" stroke-width="2"/>
+  <path d="M100 25 L115 55 L145 55 L120 75 L130 105 L100 85 L70 105 L80 75 L55 55 L85 55 Z" fill="url(#goldGrad)" opacity="0.3"/>
+  <text x="100" y="75" text-anchor="middle" fill="#ffffff" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="42" font-weight="bold">十一</text>
+  <text x="100" y="110" text-anchor="middle" fill="#f1c40f" font-family="SimHei, Microsoft YaHei, sans-serif" font-size="14" font-weight="bold">宁乡市第十一高级中学</text>
+  <text x="100" y="130" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="10" opacity="0.8">NINGXIANG NO.11 SENIOR HIGH SCHOOL</text>
+  <path d="M50 150 Q100 165 150 150" fill="none" stroke="url(#goldGrad)" stroke-width="2"/>
+  <text x="100" y="170" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="11" opacity="0.9">SINCE 1941</text>
+  <circle cx="60" cy="155" r="3" fill="#f1c40f"/>
+  <circle cx="140" cy="155" r="3" fill="#f1c40f"/>
+</svg>
